@@ -1,0 +1,2 @@
+el manejo de ficehros
+los ficheros almacenan datos, y se les da permisos de solo lectura, solo escritura o lectura/escritura
