@@ -1,2 +1,8 @@
-el manejo de ficehros
-los ficheros almacenan datos, y se les da permisos de solo lectura, solo escritura o lectura/escritura
+ARTICULOS TECNOLOGICOS:
+IPHONE#6500000
+LAPTOP#6700000
+AURICULARES#450000
+MOUSE#25000
+MONITOR#7000000
+DISCO DURO EXTERNO#230000
+USB#50000
